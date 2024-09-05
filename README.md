@@ -28,7 +28,7 @@ You can create your own Gemini API key for free by visiting [Google AI Studio](h
 ### Installation Instructions 📥
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mankotiaharsh/chat_bot
    ```
 2. Install dependencies:
    ```bash
